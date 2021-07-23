@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://rhuchita.github.io/csb-gt25z/static/css/main.3fbe4388.chunk.css",
+    "main.js": "https://rhuchita.github.io/csb-gt25z/static/js/main.3223e4c1.chunk.js",
+    "main.js.map": "https://rhuchita.github.io/csb-gt25z/static/js/main.3223e4c1.chunk.js.map",
+    "runtime-main.js": "https://rhuchita.github.io/csb-gt25z/static/js/runtime-main.ea02a8bc.js",
+    "runtime-main.js.map": "https://rhuchita.github.io/csb-gt25z/static/js/runtime-main.ea02a8bc.js.map",
+    "static/js/2.51025b43.chunk.js": "https://rhuchita.github.io/csb-gt25z/static/js/2.51025b43.chunk.js",
+    "static/js/2.51025b43.chunk.js.map": "https://rhuchita.github.io/csb-gt25z/static/js/2.51025b43.chunk.js.map",
+    "index.html": "https://rhuchita.github.io/csb-gt25z/index.html",
+    "static/css/main.3fbe4388.chunk.css.map": "https://rhuchita.github.io/csb-gt25z/static/css/main.3fbe4388.chunk.css.map",
+    "static/js/2.51025b43.chunk.js.LICENSE.txt": "https://rhuchita.github.io/csb-gt25z/static/js/2.51025b43.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea02a8bc.js",
+    "static/js/2.51025b43.chunk.js",
+    "static/css/main.3fbe4388.chunk.css",
+    "static/js/main.3223e4c1.chunk.js"
+  ]
+}
